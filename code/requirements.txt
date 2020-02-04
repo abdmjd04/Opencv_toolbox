@@ -1,0 +1,8 @@
+PyQt5
+opencv-python
+Pillow
+numpy
+matplotlib
+easygui
+face_recognition
+pickle
